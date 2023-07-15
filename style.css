@@ -1,0 +1,44 @@
+.color-primary {
+    color: rgb(255, 0, 179);
+  }
+
+.font-50 {
+    font-size: 50px;
+  }
+
+  .select-style1 {
+    height:40px;
+     font-size: 12px; 
+     color:blue;
+  }
+
+  .tb-head>tr>td {
+    border: 1px solid #000;
+    font-size: 14px;
+    font-weight: bold;
+    color: red;
+  }
+
+  .tb-body>tr>td {
+    border: 1px solid #000;
+  }
+
+  .tb td {
+    border: 1px solid #000;
+  }
+
+ /* p {
+ background-color: yellowgreen;
+    color: darkgreen;
+  }  */
+
+  .class1 {
+    background-color:red;
+    color: darkgreen;
+
+  }
+
+  #p1 {
+    background-color: yellowgreen;
+    color: darkgreen;
+  }
